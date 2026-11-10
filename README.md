@@ -15,7 +15,6 @@ AimSense считает сантиметры на полный оборот, п�
 | Версия | Установщик |
 |---|---|
 | AimSense 0.3.0 | [AimSense_Unity_Setup_0.3.0.exe](https://github.com/silevril/AimSense-Releases/releases/download/v0.3.0/AimSense_Unity_Setup_0.3.0.exe) |
-| AimSense 0.2.13 | [AimSense_Unity_Setup_0.2.13.exe](https://github.com/silevril/AimSense-Releases/releases/download/v0.2.13/AimSense_Unity_Setup_0.2.13.exe) |
 
 Рядом с установщиком лежит файл `.sha256` с контрольной суммой.
 
