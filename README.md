@@ -10,10 +10,11 @@ AimSense считает сантиметры на полный оборот, п�
 
 ## Скачать
 
-**[Скачать AimSense 0.2.13](https://github.com/silevril/AimSense-Releases/releases/download/v0.2.13/AimSense_Unity_Setup_0.2.13.exe)** — актуальная версия ([страница релиза](https://github.com/silevril/AimSense-Releases/releases/tag/v0.2.13)).
+**[Скачать AimSense 0.3.0](https://github.com/silevril/AimSense-Releases/releases/download/v0.3.0/AimSense_Unity_Setup_0.3.0.exe)** — актуальная версия ([страница релиза](https://github.com/silevril/AimSense-Releases/releases/tag/v0.3.0)).
 
 | Версия | Установщик |
 |---|---|
+| AimSense 0.3.0 | [AimSense_Unity_Setup_0.3.0.exe](https://github.com/silevril/AimSense-Releases/releases/download/v0.3.0/AimSense_Unity_Setup_0.3.0.exe) |
 | AimSense 0.2.13 | [AimSense_Unity_Setup_0.2.13.exe](https://github.com/silevril/AimSense-Releases/releases/download/v0.2.13/AimSense_Unity_Setup_0.2.13.exe) |
 
 Рядом с установщиком лежит файл `.sha256` с контрольной суммой.
@@ -28,6 +29,8 @@ AimSense считает сантиметры на полный оборот, п�
 - **Проверка мыши и игры.** Замер DPI по движению мыши, частота опроса, ускорение указателя Windows и частота монитора.
 - **Аналитика.** Сводка сессий, серии навыков и разбор движений мыши.
 - **Путь прицела** по заданию и **тепловая карта промахов** на экране результата.
+- **Видеоповторы** попыток (по желанию, включаются в настройках).
+- **Подробный гайд по настройкам** программы.
 - **История** сессий, настройка **прицела**, **калькулятор сенсы** между играми и **гид по настройке Windows**.
 
 ## Системные требования
@@ -39,7 +42,7 @@ AimSense считает сантиметры на полный оборот, п�
 
 1. Скачайте установщик актуальной версии по ссылке выше.
 2. По желанию сверьте контрольную сумму с файлом `.sha256` (PowerShell):
-   `Get-FileHash .\AimSense_Unity_Setup_0.2.13.exe -Algorithm SHA256`
+   `Get-FileHash .\AimSense_Unity_Setup_0.3.0.exe -Algorithm SHA256`
 3. Запустите установщик. Права администратора не нужны: программа ставится в `%LOCALAPPDATA%\Programs\AimSense`.
 4. Запустите AimSense из меню «Пуск» или с ярлыка на рабочем столе.
 
