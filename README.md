@@ -10,11 +10,11 @@ AimSense считает сантиметры на полный оборот, п�
 
 ## Скачать
 
-**[Скачать AimSense 0.4.1](https://github.com/silevril/AimSense-Releases/releases/download/v0.4.1/AimSense_Unity_Setup_0.4.1.exe)** — актуальная версия ([страница релиза](https://github.com/silevril/AimSense-Releases/releases/tag/v0.4.1)).
+**[Скачать AimSense 0.4.2](https://github.com/silevril/AimSense-Releases/releases/download/v0.4.2/AimSense_Unity_Setup_0.4.2.exe)** — актуальная версия ([страница релиза](https://github.com/silevril/AimSense-Releases/releases/tag/v0.4.2)).
 
 | Версия | Установщик |
 |---|---|
-| AimSense 0.4.1 | [AimSense_Unity_Setup_0.4.1.exe](https://github.com/silevril/AimSense-Releases/releases/download/v0.4.1/AimSense_Unity_Setup_0.4.1.exe) |
+| AimSense 0.4.2 | [AimSense_Unity_Setup_0.4.2.exe](https://github.com/silevril/AimSense-Releases/releases/download/v0.4.2/AimSense_Unity_Setup_0.4.2.exe) |
 
 Рядом с установщиком лежит файл `.sha256` с контрольной суммой.
 
@@ -57,7 +57,7 @@ AimSense считает сантиметры на полный оборот, п�
 
 1. Скачайте установщик актуальной версии по ссылке выше.
 2. По желанию сверьте контрольную сумму с файлом `.sha256` (PowerShell):
-   `Get-FileHash .\AimSense_Unity_Setup_0.4.1.exe -Algorithm SHA256`
+   `Get-FileHash .\AimSense_Unity_Setup_0.4.2.exe -Algorithm SHA256`
 3. Запустите установщик. Права администратора не нужны: программа ставится в `%LOCALAPPDATA%\Programs\AimSense`.
 4. Запустите AimSense из меню «Пуск» или с ярлыка на рабочем столе.
 
