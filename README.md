@@ -10,7 +10,7 @@ AimSense считает сантиметры на полный оборот, п�
 
 ## Скачать
 
-**[Скачать AimSense 0.4.3](https://github.com/silevril/AimSense-Releases/releases/download/v0.4.3/AimSense_Unity_Setup_0.4.3.exe)** — актуальная версия.
+**[Скачать AimSense 0.4.4](https://github.com/silevril/AimSense-Releases/releases/download/v0.4.4/AimSense_Unity_Setup_0.4.4.exe)** — актуальная версия.
 
 [Все версии](https://github.com/silevril/AimSense-Releases/releases)
 
@@ -55,7 +55,7 @@ AimSense считает сантиметры на полный оборот, п�
 
 1. Скачайте установщик актуальной версии по ссылке выше.
 2. По желанию сверьте контрольную сумму с файлом `.sha256` (PowerShell):
-   `Get-FileHash .\AimSense_Unity_Setup_0.4.3.exe -Algorithm SHA256`
+   `Get-FileHash .\AimSense_Unity_Setup_0.4.4.exe -Algorithm SHA256`
 3. Запустите установщик. Права администратора не нужны: программа ставится в `%LOCALAPPDATA%\Programs\AimSense`.
 4. Запустите AimSense из меню «Пуск» или с ярлыка на рабочем столе.
 
